@@ -1,2 +1,0 @@
-Adding line to check the remote repo.
-The file is successfully added to remote repo and pushing back to local repo.
